@@ -1,6 +1,6 @@
 # 📊 Ola Ride Insights: A Deep Dive into Ride-Sharing Analytics
 
-**Author:** [JAI KUMAR GUPTA] | **Date:** September 22, 2025 | **Status:** ✅ **IN_PROGRESS**
+**Author:** [JAI KUMAR GUPTA] | **Date:** September 22, 2025 | **Status:** ✅ **COMPLETED**
 
 ---
 
